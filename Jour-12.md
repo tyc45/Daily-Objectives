@@ -8,13 +8,13 @@
 <<<<<<< HEAD
     * [x] Comprendre la précédence en CSS
 =======
-    * [ ] Comprendre la précédence en CSS
+    * [x] Comprendre la précédence en CSS
 >>>>>>> 64c545806753e50fde50ea37ac53ab4b9abe3626
-    * [ ] Découvrir les sélécteurs avancés et les combinateurs en CSS
-    * [ ] Découvrir le responsive design :
-        * [ ] Comprendre l'utilité du responsive design
-        * [ ] Comprendre le fonctionnement des medias queries
-        * [ ] Comprendre la notion de mobile first
+    * [x] Découvrir les sélécteurs avancés et les combinateurs en CSS
+    * [x] Découvrir le responsive design :
+        * [x] Comprendre l'utilité du responsive design
+        * [x] Comprendre le fonctionnement des medias queries
+        * [x] Comprendre la notion de mobile first
 
 
 

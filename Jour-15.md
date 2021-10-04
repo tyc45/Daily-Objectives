@@ -7,9 +7,9 @@
 
 ### Algo : 
 
-* [ ] Comprendre ce qu'est un algorithme
-* [ ] Comprendre l'utilité des algorithmes
-* [ ] Déterminer l'importance de l’étude des algorithmes dans une carrière de dev
-* [ ] Comprendre l'utilité des algorithmes de tri
-* [ ] Découvrir le tri à bulles (Bubble Sort)
+* [x] Comprendre ce qu'est un algorithme
+* [x] Comprendre l'utilité des algorithmes
+* [x] Déterminer l'importance de l’étude des algorithmes dans une carrière de dev
+* [x] Comprendre l'utilité des algorithmes de tri
+* [x] Découvrir le tri à bulles (Bubble Sort)
 

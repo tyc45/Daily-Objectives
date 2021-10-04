@@ -5,7 +5,11 @@
 ## Jeudi 30/09/2021
 
 ### CSS : 
+<<<<<<< HEAD
     * [x] Comprendre la précédence en CSS
+=======
+    * [ ] Comprendre la précédence en CSS
+>>>>>>> 64c545806753e50fde50ea37ac53ab4b9abe3626
     * [ ] Découvrir les sélécteurs avancés et les combinateurs en CSS
     * [ ] Découvrir le responsive design :
         * [ ] Comprendre l'utilité du responsive design

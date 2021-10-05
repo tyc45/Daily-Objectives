@@ -24,4 +24,4 @@
 
 ### Algo : 
 
-* [ ] Découvrir le tri par selection (Selection Sort)
+* [x] Découvrir le tri par selection (Selection Sort)

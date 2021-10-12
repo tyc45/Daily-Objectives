@@ -4,7 +4,7 @@
 
 ### Javascript
 
-* [ ] Comprendre le fonctionnement des fonctions (https://javascript.info/function-basics)
+* [ ] Comprendre le fonctionnement des fonctions (https://fr.javascript.info/function-basics)
     * [ ] Faire les 4 exercices
 * [ ] Comprendre le fonctionnement des fonctions expression (https://fr.javascript.info/function-expressions)
 * [ ] Comprendre le fonctionnement des Fonctions fléchées (https://fr.javascript.info/arrow-functions-basics)
@@ -14,7 +14,7 @@
 
 #### Exercices
 
-* [ ] S'inscrire sur Codewars : https://www.codewars.com
+* [x] S'inscrire sur Codewars : https://www.codewars.com
 * [ ] Faire le kata "Function 1 - hello world" (https://www.codewars.com/kata/function-1-hello-world/javascript)
 * [ ] Faire le kata "Even or Odd" (8 kyu) : https://www.codewars.com/kata/53da3dbb4a5168369a0000fe/
 

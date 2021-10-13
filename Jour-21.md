@@ -4,10 +4,10 @@
 
 ### Javascript :
 
-* [ ] Comprendre l'importance du style dans le code et s'approprier les conventions dans l'objectif de rendre son code le plus lisible possible (https://javascript.info/coding-style)
-  * [ ] Faire l’exercice et analyser ses erreurs
-* [ ] Comprendre l'utilité des commentaires, savoir faire la différence entre un code bien commenté et un code mal commenté (https://javascript.info/comments)
-* [ ] Devenir un Ninja du code (https://javascript.info/ninja-code)
+* [x] Comprendre l'importance du style dans le code et s'approprier les conventions dans l'objectif de rendre son code le plus lisible possible (https://javascript.info/coding-style)
+  * [x] Faire l’exercice et analyser ses erreurs
+* [x] Comprendre l'utilité des commentaires, savoir faire la différence entre un code bien commenté et un code mal commenté (https://javascript.info/comments)
+* [x] Devenir un Ninja du code (https://javascript.info/ninja-code)
 * [ ] Comprendre ce que sont les polyfills et leur utilité (https://javascript.info/polyfills)
   * [ ] Comprendre la différence entre "transpilation" et "compilation"
   * [ ] Comprendre l'utilité de Babel

@@ -22,8 +22,8 @@
 
 ### Algo : 
 
-* [ ] Revoir le mécanisme de tri par insertion (Insertion Sort)
-* [ ] Revoir le mécanisme de tri à bulles (Bubble Sort)
+* [x] Revoir le mécanisme de tri par insertion (Insertion Sort)
+* [x] Revoir le mécanisme de tri à bulles (Bubble Sort)
 * [ ] Ecrire en pseudocode le Insertion Sort (création pure)
   * [ ] Faire valider son code par un "élève" qui joue le rôle de l'ordinateur
 

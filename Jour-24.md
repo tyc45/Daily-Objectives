@@ -8,8 +8,8 @@
 
 * [x] Comprendre le fonctionnement et l'utilité des constructeurs en Javascript (https://javascript.info/constructor-new)
   * [x] Faire les 3 exercices et analyser ses erreurs
-* [ ] Découvrir les méthodes de primitives (https://javascript.info/primitives-methods)
-  * [ ] Faire l’exercice et analyser ses erreurs
+* [x] Découvrir les méthodes de primitives (https://javascript.info/primitives-methods)
+  * [x] Faire l’exercice et analyser ses erreurs
 * [ ] Appronfondir les `numbers` en Javascript (https://javascript.info/number)
   * [ ] Faire les 6 exercices et analyser ses erreurs
 
